@@ -1,1 +1,5 @@
 # fake
+
+```
+$('#id').data('timepicker');
+```
